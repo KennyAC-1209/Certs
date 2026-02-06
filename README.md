@@ -14,10 +14,9 @@ This section highlights my current professional certifications, academic degrees
 
 <img src="https://i.imgur.com/FdcIHE4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h2>Program walk-through:</h2>
+<h2>Kilgore College</h2>
 
-<p align="center">
-Launch the utility: <br/>
+Cybersecurity Analyst and Networking Associates Degree
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
